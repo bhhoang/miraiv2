@@ -39,6 +39,7 @@ listen.loadedEnvironmentThread=Đã tải thành công biến môi trường nh�
 listen.loadedEnvironmentUser=Đã tải thành công biến môi trường người dùng
 listen.successLoadEnvironment=Đã khởi tạo biến môi trường thành công
 listen.failLoadEnvironment=Khởi tạo biến môi trường không thành công, lỗi: %1
+listen.Finalized=Chúc sử dụng bot vui vẻ
 
 # includes/controller/currencies.js
 
