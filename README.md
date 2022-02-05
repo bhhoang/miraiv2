@@ -215,8 +215,6 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 
-
-## Contact
-# Change log:
+## Change log:
 - New feature (encrypt appstate and log out message. Remember to check config.js)
 - Fixed error timeout without messing the whole code (probably)
