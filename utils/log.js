@@ -22,6 +22,9 @@ module.exports.loader = (data, option) => {
 		case "error":
 			console.log(chalk.red('[ LOADER ] » ') + data);
 			break;
+    		case "fb":
+      		console.log(chalk.green('[ FACEBOOK ] » ') + data);
+      break;
 		default:
 			console.log(chalk.green(`[ LOADER ] » `) + data);
 			break;
