@@ -214,3 +214,9 @@ This project is licensed under the GNU General Public License v3.0 License - see
 CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github.com/catalizcs) - miraiv2.official@gmail.com
 
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
+
+
+## Contact
+# Change log:
+- New feature (encrypt appstate and log out message. Remember to check config.js)
+- Fixed error timeout without messing the whole code (probably)
