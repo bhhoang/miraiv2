@@ -31,6 +31,11 @@ mirai.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED ,
 mirai.refreshListen=Refreshed handleListener...
 mirai.successConnectDatabase=Connected to database successfully!
 mirai.failConnectDatabase=Failed to connect to database, error: %1
+mirai.foundVanillaState=Found unencrypted appstate
+mirai.processCrypt=Automatically encrypt appstate
+mirai.fail2crypt1=Cannot encrypt appstate using provided KEY, please ensure KEY and raw appstate are valid
+mirai.fail2crypt2=Cannot load raw appstate and KEY
+mirai.cryptSuccess=Encrypt appstate successfully
 
 # includes/listen.js
 
