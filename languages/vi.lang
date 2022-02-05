@@ -31,6 +31,11 @@ mirai.warningSourceCode=PHÁT HIỆN SOURCE CODE ĐÃ BỊ THAY ĐỔI CẤU TR�
 mirai.refreshListen=Đã làm mới lại handleListener...
 mirai.successConnectDatabase=Kết nối đến cơ sở dữ liệu thành công
 mirai.failConnectDatabase=Kết nối đến cơ sở dữ liệu thất bại, lỗi: %1
+mirai.foundVanillaState=Đã tìm thấy appstate chưa mã hóa
+mirai.processCrypt=Đang tiến hành tự động mã hóa appstate
+mirai.fail2crypt1=Không thể giải mã appstate với khóa được cung cấp, vui lòng kiểm tra KEY trong môi trường và chắc chắn appstate không bị hỏng
+mirai.fail2crypt2=Không thể load appstate raw hoặc KEY bị lỗi
+mirai.cryptSuccess=Mã hóa appstate thành công
 
 # includes/listen.js
 
