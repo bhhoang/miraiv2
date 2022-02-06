@@ -33,7 +33,7 @@
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
-	<li><a href="#changelog">Change log</a></li>
+	<li><a href="#Changes">Change log</a></li>
     </ol>
 </details>
 
@@ -216,7 +216,7 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 
-## Change log:
+## Changes
 ### 06/02/2022:
 - Better messageTrace
 - Fixed error bot auto restart every minute that causing the uptime to restart
