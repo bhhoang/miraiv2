@@ -216,5 +216,7 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 
 ## Change log:
+### 06/02/2022:
+- Better messageTrace
+- Fixed error bot auto restart every minute that causing the uptime to restart
 - New feature (encrypt appstate credit to @BadAimWeeb and log out message. Remember to check config.json)
-- Fixed error timeout without messing the whole code (probably)
