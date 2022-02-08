@@ -217,6 +217,9 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 
 ## Changes
+### 08/02/2022:
+- Better handle for messageTrace
+- Fixed bot response multiple times in a row
 ### 06/02/2022:
 - Better messageTrace
 - Fixed error bot auto restart every minute that causing the uptime to restart
