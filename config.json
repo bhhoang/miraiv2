@@ -1,5 +1,5 @@
 {
-    "__comment": "encryptSt to true will enable appstate encryption(This will need a KEY in file .env or Secret key if you are using PaaS like replit). process.env.KEY will bethe password for your encryption appstate so make sure to random it. traceMessage will enable log out message to the console"
+    "__comment": "encryptSt to true will enable appstate encryption(This will need a KEY in file .env or Secret key if you are using PaaS like replit). process.env.KEY will bethe password for your encryption appstate so make sure to random it. traceMessage will enable log out message to the console",
     "language": "vi",
     "keyActive": "",
     "DeveloperMode": false,
