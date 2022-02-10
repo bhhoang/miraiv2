@@ -46,7 +46,6 @@
 		"fs-extra": "",
 		"jimp": "",
 		"minimist": "",
-		"mirai-fca-unofficial": "git+https://github.com/bhhoang/mirai-fca-unofficial.git",
 		"moment-timezone": "",
 		"ms": "",
 		"node": "^16.13.2",
@@ -59,6 +58,6 @@
 		"sqlite3": "",
 		"string-similarity": "",
 		"totp-generator": "",
-		"ytdl-core": "^4.10.1"
+		"ytdl-core": ""
 	}
 }
