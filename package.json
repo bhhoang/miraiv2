@@ -41,7 +41,7 @@
 		"crypto": "",
 		"eval": "",
 		"extract-zip": "",
-		"fca-horizon-remake": "git+https://github.com/bhhoang/mirai-fca-unofficial.git",
+		"mirai-fca-unofficial": "git+https://github.com/bhhoang/mirai-fca-unofficial.git",
 		"figlet": "",
 		"fs-extra": "",
 		"jimp": "",
