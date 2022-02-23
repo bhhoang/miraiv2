@@ -218,7 +218,7 @@ SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/My
 
 ## Changes
 ### 10/02/2022:
-- Fixed bot response multiple times in a row
+- Fixed bot response multiple times in a row (at least work for replit and 1:1 Ubuntu VPS)
 ### 08/02/2022:
 - Better handle for messageTrace
 ### 06/02/2022:
